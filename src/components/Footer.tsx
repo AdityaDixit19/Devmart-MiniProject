@@ -57,7 +57,7 @@ export default function Footer() {
             </Link>
             {/* GitHub */}
             <Link
-              href="https://github.com/YuviX-514"
+              href="https://github.com/AdityaDixit19"
               target="_blank"
               aria-label="GitHub"
               className="text-gray-400 hover:text-purple-400 transition transform duration-300 hover:scale-110"
@@ -81,7 +81,7 @@ export default function Footer() {
         <div>&copy; {new Date().getFullYear()} DevMart. All rights reserved.</div>
         <div>
           Made with ❤️ by{" "}
-          <span className="text-purple-400 font-semibold">Yuvraj Singh : Lucifer</span>
+          <span className="text-purple-400 font-semibold">Pravin&Team</span>
         </div>
       </div>
     </footer>
